@@ -6,5 +6,17 @@ namespace AlamaresChristianJoshuaPtask
         {
             InitializeComponent();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Orders orders = new Orders();
+            orders.ShowDialog();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Products product = new Products();
+            product.ShowDialog();
+        }
     }
 }

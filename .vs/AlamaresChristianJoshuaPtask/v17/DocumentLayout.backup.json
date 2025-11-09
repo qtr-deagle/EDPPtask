@@ -1,10 +1,70 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\cjala\\source\\repos\\AlamaresChristianJoshuaPtask\\",
+  "WorkspaceRootPath": "C:\\Users\\cjala\\OneDrive\\Documents\\EDPPtask\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{235C0590-F94C-4F5F-A26F-F1CA83B54889}|AlamaresChristianJoshuaPtask\\AlamaresChristianJoshuaPtask.csproj|c:\\users\\cjala\\source\\repos\\alamareschristianjoshuaptask\\alamareschristianjoshuaptask\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{235C0590-F94C-4F5F-A26F-F1CA83B54889}|AlamaresChristianJoshuaPtask\\AlamaresChristianJoshuaPtask.csproj|c:\\users\\cjala\\onedrive\\documents\\edpptask\\alamareschristianjoshuaptask\\removedrink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{235C0590-F94C-4F5F-A26F-F1CA83B54889}|AlamaresChristianJoshuaPtask\\AlamaresChristianJoshuaPtask.csproj|solutionrelative:alamareschristianjoshuaptask\\removedrink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{235C0590-F94C-4F5F-A26F-F1CA83B54889}|AlamaresChristianJoshuaPtask\\AlamaresChristianJoshuaPtask.csproj|c:\\users\\cjala\\onedrive\\documents\\edpptask\\alamareschristianjoshuaptask\\removefood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{235C0590-F94C-4F5F-A26F-F1CA83B54889}|AlamaresChristianJoshuaPtask\\AlamaresChristianJoshuaPtask.csproj|solutionrelative:alamareschristianjoshuaptask\\removefood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{235C0590-F94C-4F5F-A26F-F1CA83B54889}|AlamaresChristianJoshuaPtask\\AlamaresChristianJoshuaPtask.csproj|c:\\users\\cjala\\onedrive\\documents\\edpptask\\alamareschristianjoshuaptask\\adddrink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{235C0590-F94C-4F5F-A26F-F1CA83B54889}|AlamaresChristianJoshuaPtask\\AlamaresChristianJoshuaPtask.csproj|solutionrelative:alamareschristianjoshuaptask\\adddrink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{235C0590-F94C-4F5F-A26F-F1CA83B54889}|AlamaresChristianJoshuaPtask\\AlamaresChristianJoshuaPtask.csproj|c:\\users\\cjala\\onedrive\\documents\\edpptask\\alamareschristianjoshuaptask\\addfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{235C0590-F94C-4F5F-A26F-F1CA83B54889}|AlamaresChristianJoshuaPtask\\AlamaresChristianJoshuaPtask.csproj|solutionrelative:alamareschristianjoshuaptask\\addfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{235C0590-F94C-4F5F-A26F-F1CA83B54889}|AlamaresChristianJoshuaPtask\\AlamaresChristianJoshuaPtask.csproj|C:\\Users\\cjala\\OneDrive\\Documents\\EDPPtask\\alamareschristianjoshuaptask\\addfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{235C0590-F94C-4F5F-A26F-F1CA83B54889}|AlamaresChristianJoshuaPtask\\AlamaresChristianJoshuaPtask.csproj|solutionrelative:alamareschristianjoshuaptask\\addfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{235C0590-F94C-4F5F-A26F-F1CA83B54889}|AlamaresChristianJoshuaPtask\\AlamaresChristianJoshuaPtask.csproj|C:\\Users\\cjala\\OneDrive\\Documents\\EDPPtask\\alamareschristianjoshuaptask\\adddrink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{235C0590-F94C-4F5F-A26F-F1CA83B54889}|AlamaresChristianJoshuaPtask\\AlamaresChristianJoshuaPtask.csproj|solutionrelative:alamareschristianjoshuaptask\\adddrink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{235C0590-F94C-4F5F-A26F-F1CA83B54889}|AlamaresChristianJoshuaPtask\\AlamaresChristianJoshuaPtask.csproj|C:\\Users\\cjala\\OneDrive\\Documents\\EDPPtask\\alamareschristianjoshuaptask\\removefood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{235C0590-F94C-4F5F-A26F-F1CA83B54889}|AlamaresChristianJoshuaPtask\\AlamaresChristianJoshuaPtask.csproj|solutionrelative:alamareschristianjoshuaptask\\removefood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{235C0590-F94C-4F5F-A26F-F1CA83B54889}|AlamaresChristianJoshuaPtask\\AlamaresChristianJoshuaPtask.csproj|C:\\Users\\cjala\\OneDrive\\Documents\\EDPPtask\\alamareschristianjoshuaptask\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{235C0590-F94C-4F5F-A26F-F1CA83B54889}|AlamaresChristianJoshuaPtask\\AlamaresChristianJoshuaPtask.csproj|solutionrelative:alamareschristianjoshuaptask\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{235C0590-F94C-4F5F-A26F-F1CA83B54889}|AlamaresChristianJoshuaPtask\\AlamaresChristianJoshuaPtask.csproj|c:\\users\\cjala\\onedrive\\documents\\edpptask\\alamareschristianjoshuaptask\\removefood.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{235C0590-F94C-4F5F-A26F-F1CA83B54889}|AlamaresChristianJoshuaPtask\\AlamaresChristianJoshuaPtask.csproj|solutionrelative:alamareschristianjoshuaptask\\removefood.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{235C0590-F94C-4F5F-A26F-F1CA83B54889}|AlamaresChristianJoshuaPtask\\AlamaresChristianJoshuaPtask.csproj|C:\\Users\\cjala\\OneDrive\\Documents\\EDPPtask\\alamareschristianjoshuaptask\\removedrink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{235C0590-F94C-4F5F-A26F-F1CA83B54889}|AlamaresChristianJoshuaPtask\\AlamaresChristianJoshuaPtask.csproj|solutionrelative:alamareschristianjoshuaptask\\removedrink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{235C0590-F94C-4F5F-A26F-F1CA83B54889}|AlamaresChristianJoshuaPtask\\AlamaresChristianJoshuaPtask.csproj|c:\\users\\cjala\\onedrive\\documents\\edpptask\\alamareschristianjoshuaptask\\removedrink.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{235C0590-F94C-4F5F-A26F-F1CA83B54889}|AlamaresChristianJoshuaPtask\\AlamaresChristianJoshuaPtask.csproj|solutionrelative:alamareschristianjoshuaptask\\removedrink.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{235C0590-F94C-4F5F-A26F-F1CA83B54889}|AlamaresChristianJoshuaPtask\\AlamaresChristianJoshuaPtask.csproj|c:\\users\\cjala\\onedrive\\documents\\edpptask\\alamareschristianjoshuaptask\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{235C0590-F94C-4F5F-A26F-F1CA83B54889}|AlamaresChristianJoshuaPtask\\AlamaresChristianJoshuaPtask.csproj|solutionrelative:alamareschristianjoshuaptask\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{235C0590-F94C-4F5F-A26F-F1CA83B54889}|AlamaresChristianJoshuaPtask\\AlamaresChristianJoshuaPtask.csproj|c:\\users\\cjala\\onedrive\\documents\\edpptask\\alamareschristianjoshuaptask\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{235C0590-F94C-4F5F-A26F-F1CA83B54889}|AlamaresChristianJoshuaPtask\\AlamaresChristianJoshuaPtask.csproj|solutionrelative:alamareschristianjoshuaptask\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{235C0590-F94C-4F5F-A26F-F1CA83B54889}|AlamaresChristianJoshuaPtask\\AlamaresChristianJoshuaPtask.csproj|c:\\users\\cjala\\onedrive\\documents\\edpptask\\alamareschristianjoshuaptask\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{235C0590-F94C-4F5F-A26F-F1CA83B54889}|AlamaresChristianJoshuaPtask\\AlamaresChristianJoshuaPtask.csproj|solutionrelative:alamareschristianjoshuaptask\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{235C0590-F94C-4F5F-A26F-F1CA83B54889}|AlamaresChristianJoshuaPtask\\AlamaresChristianJoshuaPtask.csproj|C:\\Users\\cjala\\OneDrive\\Documents\\EDPPtask\\alamareschristianjoshuaptask\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{235C0590-F94C-4F5F-A26F-F1CA83B54889}|AlamaresChristianJoshuaPtask\\AlamaresChristianJoshuaPtask.csproj|solutionrelative:alamareschristianjoshuaptask\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{235C0590-F94C-4F5F-A26F-F1CA83B54889}|AlamaresChristianJoshuaPtask\\AlamaresChristianJoshuaPtask.csproj|C:\\Users\\cjala\\OneDrive\\Documents\\EDPPtask\\alamareschristianjoshuaptask\\processorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{235C0590-F94C-4F5F-A26F-F1CA83B54889}|AlamaresChristianJoshuaPtask\\AlamaresChristianJoshuaPtask.csproj|solutionrelative:alamareschristianjoshuaptask\\processorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +74,220 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\cjala\\source\\repos\\AlamaresChristianJoshuaPtask\\AlamaresChristianJoshuaPtask\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\cjala\\OneDrive\\Documents\\EDPPtask\\AlamaresChristianJoshuaPtask\\Form1.cs",
               "RelativeDocumentMoniker": "AlamaresChristianJoshuaPtask\\Form1.cs",
-              "ToolTip": "C:\\Users\\cjala\\source\\repos\\AlamaresChristianJoshuaPtask\\AlamaresChristianJoshuaPtask\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\cjala\\OneDrive\\Documents\\EDPPtask\\AlamaresChristianJoshuaPtask\\Form1.cs [Design]",
               "RelativeToolTip": "AlamaresChristianJoshuaPtask\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T07:30:52.721Z",
+              "WhenOpened": "2025-11-09T08:33:20.788Z",
+              "IsPinned": true,
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Products.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\cjala\\OneDrive\\Documents\\EDPPtask\\AlamaresChristianJoshuaPtask\\Products.cs",
+              "RelativeDocumentMoniker": "AlamaresChristianJoshuaPtask\\Products.cs",
+              "ToolTip": "C:\\Users\\cjala\\OneDrive\\Documents\\EDPPtask\\AlamaresChristianJoshuaPtask\\Products.cs [Design]",
+              "RelativeToolTip": "AlamaresChristianJoshuaPtask\\Products.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T10:12:55.67Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddFood.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\cjala\\OneDrive\\Documents\\EDPPtask\\AlamaresChristianJoshuaPtask\\AddFood.cs",
+              "RelativeDocumentMoniker": "AlamaresChristianJoshuaPtask\\AddFood.cs",
+              "ToolTip": "C:\\Users\\cjala\\OneDrive\\Documents\\EDPPtask\\AlamaresChristianJoshuaPtask\\AddFood.cs [Design]",
+              "RelativeToolTip": "AlamaresChristianJoshuaPtask\\AddFood.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T09:27:04.656Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RemoveFood.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\cjala\\OneDrive\\Documents\\EDPPtask\\AlamaresChristianJoshuaPtask\\RemoveFood.cs",
+              "RelativeDocumentMoniker": "AlamaresChristianJoshuaPtask\\RemoveFood.cs",
+              "ToolTip": "C:\\Users\\cjala\\OneDrive\\Documents\\EDPPtask\\AlamaresChristianJoshuaPtask\\RemoveFood.cs [Design]*",
+              "RelativeToolTip": "AlamaresChristianJoshuaPtask\\RemoveFood.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T08:50:35.113Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddDrink.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\cjala\\OneDrive\\Documents\\EDPPtask\\AlamaresChristianJoshuaPtask\\AddDrink.cs",
+              "RelativeDocumentMoniker": "AlamaresChristianJoshuaPtask\\AddDrink.cs",
+              "ToolTip": "C:\\Users\\cjala\\OneDrive\\Documents\\EDPPtask\\AlamaresChristianJoshuaPtask\\AddDrink.cs [Design]",
+              "RelativeToolTip": "AlamaresChristianJoshuaPtask\\AddDrink.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T08:52:05.624Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RemoveDrink.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\cjala\\OneDrive\\Documents\\EDPPtask\\AlamaresChristianJoshuaPtask\\RemoveDrink.cs",
+              "RelativeDocumentMoniker": "AlamaresChristianJoshuaPtask\\RemoveDrink.cs",
+              "ToolTip": "C:\\Users\\cjala\\OneDrive\\Documents\\EDPPtask\\AlamaresChristianJoshuaPtask\\RemoveDrink.cs [Design]*",
+              "RelativeToolTip": "AlamaresChristianJoshuaPtask\\RemoveDrink.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T09:00:05.467Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Orders.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\cjala\\OneDrive\\Documents\\EDPPtask\\AlamaresChristianJoshuaPtask\\Orders.cs",
+              "RelativeDocumentMoniker": "AlamaresChristianJoshuaPtask\\Orders.cs",
+              "ToolTip": "C:\\Users\\cjala\\OneDrive\\Documents\\EDPPtask\\AlamaresChristianJoshuaPtask\\Orders.cs [Design]",
+              "RelativeToolTip": "AlamaresChristianJoshuaPtask\\Orders.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T09:10:03.324Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProcessOrder.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\cjala\\OneDrive\\Documents\\EDPPtask\\AlamaresChristianJoshuaPtask\\ProcessOrder.cs",
+              "RelativeDocumentMoniker": "AlamaresChristianJoshuaPtask\\ProcessOrder.cs",
+              "ToolTip": "C:\\Users\\cjala\\OneDrive\\Documents\\EDPPtask\\AlamaresChristianJoshuaPtask\\ProcessOrder.cs [Design]",
+              "RelativeToolTip": "AlamaresChristianJoshuaPtask\\ProcessOrder.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T09:28:09.542Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\cjala\\OneDrive\\Documents\\EDPPtask\\AlamaresChristianJoshuaPtask\\Products.cs",
+              "RelativeDocumentMoniker": "AlamaresChristianJoshuaPtask\\Products.cs",
+              "ToolTip": "C:\\Users\\cjala\\OneDrive\\Documents\\EDPPtask\\AlamaresChristianJoshuaPtask\\Products.cs",
+              "RelativeToolTip": "AlamaresChristianJoshuaPtask\\Products.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAIwFIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T08:37:45.828Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddFood.cs",
+              "DocumentMoniker": "C:\\Users\\cjala\\OneDrive\\Documents\\EDPPtask\\AlamaresChristianJoshuaPtask\\AddFood.cs",
+              "RelativeDocumentMoniker": "AlamaresChristianJoshuaPtask\\AddFood.cs",
+              "ToolTip": "C:\\Users\\cjala\\OneDrive\\Documents\\EDPPtask\\AlamaresChristianJoshuaPtask\\AddFood.cs",
+              "RelativeToolTip": "AlamaresChristianJoshuaPtask\\AddFood.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwCIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T09:25:57.981Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RemoveFood.cs",
+              "DocumentMoniker": "C:\\Users\\cjala\\OneDrive\\Documents\\EDPPtask\\AlamaresChristianJoshuaPtask\\RemoveFood.cs",
+              "RelativeDocumentMoniker": "AlamaresChristianJoshuaPtask\\RemoveFood.cs",
+              "ToolTip": "C:\\Users\\cjala\\OneDrive\\Documents\\EDPPtask\\AlamaresChristianJoshuaPtask\\RemoveFood.cs*",
+              "RelativeToolTip": "AlamaresChristianJoshuaPtask\\RemoveFood.cs*",
+              "ViewState": "AgIAABcAAAAAAAAAAAAxwCMAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T10:54:45.22Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddDrink.cs",
+              "DocumentMoniker": "C:\\Users\\cjala\\OneDrive\\Documents\\EDPPtask\\AlamaresChristianJoshuaPtask\\AddDrink.cs",
+              "RelativeDocumentMoniker": "AlamaresChristianJoshuaPtask\\AddDrink.cs",
+              "ToolTip": "C:\\Users\\cjala\\OneDrive\\Documents\\EDPPtask\\AlamaresChristianJoshuaPtask\\AddDrink.cs",
+              "RelativeToolTip": "AlamaresChristianJoshuaPtask\\AddDrink.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAxwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T11:24:27.731Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RemoveDrink.cs",
+              "DocumentMoniker": "C:\\Users\\cjala\\OneDrive\\Documents\\EDPPtask\\AlamaresChristianJoshuaPtask\\RemoveDrink.cs",
+              "RelativeDocumentMoniker": "AlamaresChristianJoshuaPtask\\RemoveDrink.cs",
+              "ToolTip": "C:\\Users\\cjala\\OneDrive\\Documents\\EDPPtask\\AlamaresChristianJoshuaPtask\\RemoveDrink.cs*",
+              "RelativeToolTip": "AlamaresChristianJoshuaPtask\\RemoveDrink.cs*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACMAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T11:39:22.807Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RemoveFood.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\cjala\\OneDrive\\Documents\\EDPPtask\\AlamaresChristianJoshuaPtask\\RemoveFood.Designer.cs",
+              "RelativeDocumentMoniker": "AlamaresChristianJoshuaPtask\\RemoveFood.Designer.cs",
+              "ToolTip": "C:\\Users\\cjala\\OneDrive\\Documents\\EDPPtask\\AlamaresChristianJoshuaPtask\\RemoveFood.Designer.cs",
+              "RelativeToolTip": "AlamaresChristianJoshuaPtask\\RemoveFood.Designer.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T11:46:34.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RemoveDrink.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\cjala\\OneDrive\\Documents\\EDPPtask\\AlamaresChristianJoshuaPtask\\RemoveDrink.Designer.cs",
+              "RelativeDocumentMoniker": "AlamaresChristianJoshuaPtask\\RemoveDrink.Designer.cs",
+              "ToolTip": "C:\\Users\\cjala\\OneDrive\\Documents\\EDPPtask\\AlamaresChristianJoshuaPtask\\RemoveDrink.Designer.cs",
+              "RelativeToolTip": "AlamaresChristianJoshuaPtask\\RemoveDrink.Designer.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T11:42:24.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\cjala\\OneDrive\\Documents\\EDPPtask\\AlamaresChristianJoshuaPtask\\Form1.cs",
+              "RelativeDocumentMoniker": "AlamaresChristianJoshuaPtask\\Form1.cs",
+              "ToolTip": "C:\\Users\\cjala\\OneDrive\\Documents\\EDPPtask\\AlamaresChristianJoshuaPtask\\Form1.cs",
+              "RelativeToolTip": "AlamaresChristianJoshuaPtask\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T11:17:14.095Z",
+              "EditorCaption": ""
             }
           ]
         }
