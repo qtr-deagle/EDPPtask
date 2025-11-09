@@ -32,7 +32,7 @@ namespace AlamaresChristianJoshuaPtask
                 {
                     string filePath = Path.Combine(Application.StartupPath, "FoodList.txt");
 
-                    string entry = $"{foodName} | {price}";
+                    string entry = $"{foodName} - {price}";
                     File.AppendAllText(filePath, entry + Environment.NewLine);
 
                     Result.Text = "Food added successfully!";
@@ -59,6 +59,11 @@ namespace AlamaresChristianJoshuaPtask
 
 
         private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void AddFood_Load(object sender, EventArgs e)
         {
 
         }

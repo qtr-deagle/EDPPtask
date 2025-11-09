@@ -33,7 +33,7 @@ namespace AlamaresChristianJoshuaPtask
                     var products = File.ReadAllLines(filePath).ToList();
 
                     // Find line that starts with "DrinkName|"
-                    var match = products.FirstOrDefault(p => p.StartsWith(DrinkName + " | ", StringComparison.OrdinalIgnoreCase));
+                    var match = products.FirstOrDefault(p => p.StartsWith(DrinkName + " - ", StringComparison.OrdinalIgnoreCase));
 
                     if (match != null)
                     {
@@ -72,6 +72,11 @@ namespace AlamaresChristianJoshuaPtask
         }
 
         private void Result_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void RemoveDrink_Load(object sender, EventArgs e)
         {
 
         }

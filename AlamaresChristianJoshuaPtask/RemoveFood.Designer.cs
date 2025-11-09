@@ -84,6 +84,7 @@
             Controls.Add(label1);
             Name = "RemoveFood";
             Text = "RemoveFood";
+            Load += RemoveFood_Load;
             ResumeLayout(false);
             PerformLayout();
         }

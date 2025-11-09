@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AlamaresChristianJoshuaPtask")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+105185d23873ac0b0e668f62fdf1ea3a62e233c2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98b5ba85b70e1702ca90f2c7e45ec0e1225c59ff")]
 [assembly: System.Reflection.AssemblyProductAttribute("AlamaresChristianJoshuaPtask")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AlamaresChristianJoshuaPtask")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

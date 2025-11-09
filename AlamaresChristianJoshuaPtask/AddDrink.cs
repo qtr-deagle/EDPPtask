@@ -30,7 +30,7 @@ namespace AlamaresChristianJoshuaPtask
                 {
                     string filePath = Path.Combine(Application.StartupPath, "DrinkList.txt");
 
-                    string entry = $"{DrinkName} | {price}";
+                    string entry = $"{DrinkName} - {price}";
                     File.AppendAllText(filePath, entry + Environment.NewLine);
 
                     Result.Text = "Drink added successfully!";

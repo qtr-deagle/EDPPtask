@@ -27,6 +27,15 @@ namespace AlamaresChristianJoshuaPtask
                 string[] products = File.ReadAllLines(filePath);
                 FoodOrderList.Items.AddRange(products);
             }
+
+            string drinkPath = Path.Combine(Application.StartupPath, "DrinkList.txt");
+
+            DrinkOrderList.Items.Clear();
+            if (File.Exists(drinkPath))
+            {
+                string[] drinks = File.ReadAllLines(drinkPath);
+                DrinkOrderList.Items.AddRange(drinks);
+            }
         }
 
         private void button1_Click(object sender, EventArgs e)

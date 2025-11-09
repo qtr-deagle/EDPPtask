@@ -1,0 +1,12 @@
+===== RECEIPT =====
+Date: 11/10/2025 1:35:51 AM
+Order #: 99771ada
+
+Items:
+- manok  -  100
+- mangga  -  200
+
+Total: 300.00
+Payment: 1000
+Change: 700.00
+===================

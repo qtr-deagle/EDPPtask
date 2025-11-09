@@ -31,14 +31,16 @@
             button1 = new Button();
             ProcessOrderList = new ListBox();
             label1 = new Label();
-            textBox1 = new TextBox();
+            OrderProductBox = new TextBox();
             label4 = new Label();
             button2 = new Button();
             button3 = new Button();
             label2 = new Label();
             label3 = new Label();
-            textBox2 = new TextBox();
+            PaymentBox = new TextBox();
             button4 = new Button();
+            TotalResult = new Label();
+            ChangeResult = new Label();
             SuspendLayout();
             // 
             // button1
@@ -50,6 +52,7 @@
             button1.TabIndex = 18;
             button1.Text = "PRINT";
             button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
             // 
             // ProcessOrderList
             // 
@@ -69,12 +72,13 @@
             label1.TabIndex = 15;
             label1.Text = "PROCESS ORDER";
             // 
-            // textBox1
+            // OrderProductBox
             // 
-            textBox1.Location = new Point(54, 62);
-            textBox1.Name = "textBox1";
-            textBox1.Size = new Size(126, 27);
-            textBox1.TabIndex = 21;
+            OrderProductBox.Location = new Point(54, 62);
+            OrderProductBox.Name = "OrderProductBox";
+            OrderProductBox.Size = new Size(126, 27);
+            OrderProductBox.TabIndex = 21;
+            OrderProductBox.TextChanged += OrderProductBox_TextChanged;
             // 
             // label4
             // 
@@ -95,6 +99,7 @@
             button2.TabIndex = 24;
             button2.Text = "DELETE";
             button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
             // 
             // button3
             // 
@@ -105,6 +110,7 @@
             button3.TabIndex = 23;
             button3.Text = "ADD";
             button3.UseVisualStyleBackColor = true;
+            button3.Click += button3_Click;
             // 
             // label2
             // 
@@ -126,12 +132,13 @@
             label3.TabIndex = 26;
             label3.Text = "Change:";
             // 
-            // textBox2
+            // PaymentBox
             // 
-            textBox2.Location = new Point(139, 357);
-            textBox2.Name = "textBox2";
-            textBox2.Size = new Size(136, 27);
-            textBox2.TabIndex = 27;
+            PaymentBox.Location = new Point(139, 357);
+            PaymentBox.Name = "PaymentBox";
+            PaymentBox.Size = new Size(136, 27);
+            PaymentBox.TabIndex = 27;
+            PaymentBox.TextChanged += PaymentBox_TextChanged;
             // 
             // button4
             // 
@@ -142,20 +149,43 @@
             button4.TabIndex = 28;
             button4.Text = "PAY";
             button4.UseVisualStyleBackColor = true;
+            button4.Click += button4_Click;
+            // 
+            // TotalResult
+            // 
+            TotalResult.AutoSize = true;
+            TotalResult.Font = new Font("Courier New", 10.2F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            TotalResult.Location = new Point(118, 333);
+            TotalResult.Name = "TotalResult";
+            TotalResult.Size = new Size(19, 20);
+            TotalResult.TabIndex = 29;
+            TotalResult.Text = "0";
+            // 
+            // ChangeResult
+            // 
+            ChangeResult.AutoSize = true;
+            ChangeResult.Font = new Font("Courier New", 10.2F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            ChangeResult.Location = new Point(127, 391);
+            ChangeResult.Name = "ChangeResult";
+            ChangeResult.Size = new Size(19, 20);
+            ChangeResult.TabIndex = 30;
+            ChangeResult.Text = "0";
             // 
             // ProcessOrder
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(417, 487);
+            Controls.Add(ChangeResult);
+            Controls.Add(TotalResult);
             Controls.Add(button4);
-            Controls.Add(textBox2);
+            Controls.Add(PaymentBox);
             Controls.Add(label3);
             Controls.Add(label2);
             Controls.Add(button2);
             Controls.Add(button3);
             Controls.Add(label4);
-            Controls.Add(textBox1);
+            Controls.Add(OrderProductBox);
             Controls.Add(button1);
             Controls.Add(ProcessOrderList);
             Controls.Add(label1);
@@ -170,13 +200,15 @@
         private ListBox DrinkOrderList;
         private ListBox ProcessOrderList;
         private Label label1;
-        private TextBox textBox1;
+        private TextBox OrderProductBox;
         private Label label4;
         private Button button2;
         private Button button3;
         private Label label2;
         private Label label3;
-        private TextBox textBox2;
+        private TextBox PaymentBox;
         private Button button4;
+        private Label TotalResult;
+        private Label ChangeResult;
     }
 }

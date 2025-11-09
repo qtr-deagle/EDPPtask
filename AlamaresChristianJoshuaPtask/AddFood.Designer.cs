@@ -95,6 +95,7 @@
             Controls.Add(label1);
             Name = "AddFood";
             Text = "AddFood";
+            Load += AddFood_Load;
             ResumeLayout(false);
             PerformLayout();
         }

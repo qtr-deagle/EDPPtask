@@ -85,6 +85,7 @@
             Controls.Add(label1);
             Name = "RemoveDrink";
             Text = "RemoveDrink";
+            Load += RemoveDrink_Load;
             ResumeLayout(false);
             PerformLayout();
         }

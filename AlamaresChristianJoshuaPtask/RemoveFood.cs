@@ -33,7 +33,7 @@ namespace AlamaresChristianJoshuaPtask
                     var products = File.ReadAllLines(filePath).ToList();
 
                     // Find line that starts with "foodName|"
-                    var match = products.FirstOrDefault(p => p.StartsWith(foodName + " | ", StringComparison.OrdinalIgnoreCase));
+                    var match = products.FirstOrDefault(p => p.StartsWith(foodName + " - ", StringComparison.OrdinalIgnoreCase));
 
                     if (match != null)
                     {
@@ -67,6 +67,11 @@ namespace AlamaresChristianJoshuaPtask
         }
 
         private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void RemoveFood_Load(object sender, EventArgs e)
         {
 
         }
